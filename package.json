@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Jilary V",
+  "author": "Hilary V",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
